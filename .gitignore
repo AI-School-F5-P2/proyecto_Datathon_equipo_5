@@ -1,3 +1,4 @@
 .vscode
 dataton
 .ipynb_checkpoints
+/data_venv
