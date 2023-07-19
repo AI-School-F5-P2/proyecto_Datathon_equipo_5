@@ -1,6 +1,5 @@
 <h1 style="color: #ff6347;">MiniDatathonF5: USA Covid 19</h1>
 
-<p><img src="https://example.com/covid19.png" alt="Covid-19" width="200" height="200"></p>
 
 <p>¡Bienvenido al MiniDatathonF5 sobre el análisis de datos de Covid-19 en Estados Unidos!</p>
 
